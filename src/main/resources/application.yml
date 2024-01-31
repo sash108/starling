@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+external:
+  starling:
+    base_url: https://api-sandbox.starlingbank.com
+

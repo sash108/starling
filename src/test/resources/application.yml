@@ -1,0 +1,3 @@
+external:
+  starling:
+    base_url: http://localhost:${mockServerPort}
